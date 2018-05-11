@@ -1,0 +1,8 @@
+# Checkpoints #
+###############
+.ipynb_checkpoints
+
+# Datasets #
+############
+vehicles/
+non-vehicles/
