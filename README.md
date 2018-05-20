@@ -8,6 +8,7 @@ The goal and challenge in computer vision is basically to detect and find object
 - Applied a heatmap to cluster bounding boxes and reject outliers
 - Tested the classifier on a static video shot with an iPhone
 - Improved detection by using data augmentation
+- Bonus: Used PCA to reduce feature dimension
 
 The data was collected from [GTI website](https://www.gti.ssr.upm.es/data/Vehicle_database.html). The database comprises 3425 images of vehicle rears taken from different points of view, and 3900 images extracted from road sequences not containing vehicles.
 
